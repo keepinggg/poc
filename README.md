@@ -29,3 +29,6 @@ AddressSanitizer can not provide additional info.
 SUMMARY: AddressSanitizer: SEGV /home/ther/fuzzing101/swftools-master/lib/ttf.c:88 in readU16
 ==3017452==ABORTING
 ```
+
+### CVE-ID
+CVE-2022-46440
