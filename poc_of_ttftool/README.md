@@ -33,4 +33,4 @@ SUMMARY: AddressSanitizer: SEGV /home/ther/fuzzing101/swftools-master/lib/ttf.c:
 CVE-2022-46440
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, zhanghaonan at Guangzhou University.
