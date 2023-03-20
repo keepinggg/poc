@@ -62,7 +62,7 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ```
 
 ### CVE-ID
-CVE-2022-46440
+CVE-2023-27249
 
 ### Discover
 zhangzhourui, luhui, tianzhihong at Guangzhou University.
