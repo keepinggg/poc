@@ -1,6 +1,13 @@
-A stack-overflow in pdftotext  --  xpdf4.04
+## SEGV
+### env
+ubuntu20.04 
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+xpdf4.04
 
+### sample
+[poc.zip](https://github.com/keepinggg/poc/blob/main/poc_of_xpdf/id2)
 
+### crash
 ```
 ./pdftotext /mnt/hgfs/ubuntu/cve/xpdf/xpdf-4.04/out/default/crashes/id:000002,sig:11,src:000873,time:2679871,execs:139753,op:havoc,rep:8
 Syntax Error: Couldn't read xref table
@@ -276,3 +283,11 @@ AddressSanitizer:DEADLYSIGNAL
 SUMMARY: AddressSanitizer: stack-overflow ../../../../src/libsanitizer/sanitizer_common/sanitizer_stackdepot.cc:64 in __sanitizer::StackDepotNode::hash(__sanitizer::StackTrace const&)
 ==1880690==ABORTING
 ```
+
+### CVE-ID
+CVE-2023-27655
+
+### Discover
+zhangzhourui, luhui, tianzhihong at Guangzhou University.
+
+
