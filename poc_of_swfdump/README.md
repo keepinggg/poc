@@ -7,7 +7,7 @@ gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
 swfdump - part of swftools 0.9.2
 
 ## sample
-[poc.zip](https://github.com/keepinggg/poc/blob/main/poc_of_swfdump/poc)
+[poc.zip](https://github.com/keepinggg/poc/blob/main/poc_of_swfdump/poc_heap-buffer_overflow_swf_GetPlaceObject)
 
 ## crash
 ```
