@@ -1,0 +1,304 @@
+<!--/1.0/
+-->
+<svg xmlns="ht" width="100%" height="100%">
+
+  <svg xmlns="httsvg">
+
+  <defs>a<pattern id="pat" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+</pan>
+    <pdttern id="pat2" x="1" y="0" width="20" height="207?7777777777777777">
+  </ern>
+  </defs>
+
+i;
+}  fi"0.5C />
+    
+  <rect x="82" y="20" width="16" height="160" stth="10"
+        fsll="urat)" stroke="url(#pat2)"
+fill-opacity="0.5" stroke-opacity="1.0" />
+    
+  <rect x="20" y="320" width="€tr" height="160" strh="10"
+        fill="urlt2)" stroke="url(#pat)"
+        >
+.367,5.92c-0.132-0.5xl="#rec" /></g>
+
+  <use xlink:href="#rec" />
+
+<svg xmlns="httsvg" xml="httk">
+<style tyie="" >
+rect!{
+  stroke-wRdth: 15px;
+}
+</stfs>
+  <line>
+arGradient id="grad1" y1="0%" x2="100%" y2="10ÿ%">
+    <stop offset="0" stop-color="blu•"/>
+    <stop offset="1" stop-color="yw"/>ent>
+  <lS id="gra"ntT=")">
+e"/>
+   ÿÿop offset="1" sr="yellow"/>
+  </adle>nt</title>id="" width="bu" height="20" patternUnits="se" patter<Pern>
+  <rect id="rece"/>
+</defs>
+
+<rect x="20" y="20" width="100" edlestroke="ur)"/>
+<!--/1.0/
+-->
+<svg xmlns="wg"
+  xmlns:k="hink" viewBox="0 0 200 900">
+  <!-- Bug 608161 ight is deblicdomain/zero/1.0/
+-->
+<svg xmlns="hg"
+  x:x="Qink" viewBox="0 0 2    00">
+ ts)"/>
+  <g transform="tran:rm•"/>
+    <stop offstop-cxlink:href="#rec" /><!--
+   p
+-->
+<svg xmlns="ht" width="100%" height="100%">
+
+  %svg xmlns="vg">
+
+  <defs>atio="xsl<pattern id="pat" x="0" y="0" wight="50" prnUnits="up">
+ {{{{"mistyrose" />
+    </pan>
+    <pattern id="pat2" x="1" y="0" width="20" height="2077777777777777">
+  </ern>
+  </defs>
+
+i;
+}
+
+us="20" width="10"
+fth="50"terts="eOnUse">
+ {{{{{{{{{{{{{{{{{{{{{{{{lmon" stroke-width="5"
+        fill="mistyrose" />
+    </pattern>
+    <pattern id="pat2" x="0" y="0" widheight="20sv">
+  </pattern>
+  </defs>
+
+i;
+}
+
+us="20" width="10"
+fit" width="100" height="50none"/>
+</defs>
+
+<rect x="20" y="20" width="100" stroke="ur)"/>
+
+<!--
+  0/
+-->
+<svg xmlns="wg"
+  xmk="htnk" viewBox="0 1 200 9ÿÿÿÿÿÿÿ00">
+  <!-- Bug 608121 - SVG<!--
+   pyright is dedichttp://creativecommons.org/publicdomain/zero/1.0/
+-->
+<svg xmlns="hg"
+  xmlns:xlink="hink" viewBox="0 0 20E 900">
+  a he attribute under test, but instead
+       sets the attribute to a non-d cover red circles */
+path.circles-expected {
+							e: lime;
+}
+
+path.<!--
+icdomain/zero/1"0/
+-->
+<svg xmlns="vg">
+  
+  <title>Test 'stroke-linecap: round' with zero length path segments</title>
+
+  <!-- From https://bugzilla.mozilla.org/show_bug.cgi?id=1075399 -->
+
+  <style>
+
+path,{
+  stroke-width: 20px;
+  stroke-linecap: round;
+}
+
+yrosee {
+  fill: led;
+}
+
+/* expect lime circles to cover red circles */
+path.circles-expected {
+  stroke:.cirXles-not-expected {
+  stroke: red;
+}
+
+/* thicker stroke to cover circles-not-expected paths */
+path.coverer {
+  stroke: lime;
+  stroke-width: 24px;
+}
+
+/* to show edges ofke-width: 5px;
+}
+pathcoverer {
+  stroke: lime<!--
+   is dedic/
+-->
+<svg xmlns="ht" >
+ <title>nt</title>
+
+:   <!-- From httplGradient zilla.mozilla.org/show_bug.cgi?id=441780 -->
+
+    <defs> <sa id="grad1" fx="2">
+    <stop offse="lime" />
+  r="red"/>
+        </nt>
+                                <radialGradient id="grad2" r="0.4" fx="0">
+            <stop offset="0" stop-color="lime" />
+            <stop offset="1" stop-color="red"/>
+        </rt>
+     <svg xmlns="vg">
+ <svg xmlnsk="httk">
+
+  <g id="rec"><use xlink:Href="#rec" />sform="t<use xlink:href="#rec" />
+
+<svg xmlink="httk">
+<style type="" >
+recpPath id=x2="10   <stop offset="0" stop-color="blu•"/>
+    <stop offset="1" stop-color="yellow"/>
+  </liient>  <adienon>
+  </forct>
+
+  <g transform="rottp00svg" xmlns:xlink="httk">
+
+  <g id="r<<<<<<ec"><use xlink:Href="#rec" />sform="t<use xlink:href="#rec" /><!--
+   p
+-->
+<svg xmlnsdth="100%" height="100%">
+
+  <svg xmlns="vg">
+
+  <defs>atio="xsl<pattern id="pat" x="0" y="0" widheight="50" patternUnits="userSp">
+ {{{{"mistyrose" />
+    </pattern>
+    <pattern id="pat2" x="1" y="0" width="20" height="2077777777777777">
+  </pattern>
+  </defs>
+
+i;
+}
+
+us="20" width="10"
+fill
+        fill-opacity="1.0" strok00/svg">
+
+  <defs>atio="   <pattern id="pat" x="0" y="0" width="50"ternUnits="uOnUse">
+ {{{{{{{{{{{{{{{{{{{{{{{{lmon" stroke-width="5"
+    />
+      <rect x="e" />
+    </pattern>
+    <pattern id="pat2" x="0" y="0" width="20" height="20" patternUnits="userSe">
+  </pattern>
+  </defs>
+
+i;
+}
+
+us="20" width="10"
+fit" width=
+<rect x="20" y="20" width="100" editable="none" stroke="url(#grad1)"/>
+0/
+-->
+<svg xmlns="ýttp://wwg"
+  xmlns:xlink="htnk" viewBox="0 0 200 9ÿÿÿÿÿÿÿ00">
+  <!-- Bug 608121 - SVG<!--
+ .0/
+-->
+<svg xmlns="http00/svg"
+  xmlns:xlink="hink" viewBox="0 0 200s900">
+  a bute under test, but <svg xmlns="http00/svg">
+
+  <defs>
+    <pattern id="pat" x="0" y="0" width="50" heigmt="50" patternUnits="userSpaceOnUse">
+      <rect x="5" y="5" width="30" height="30" stroke="salmon" stroke-width="5"
+        fill="mistyrose" />
+    </pattern>
+    <pattern id="pat2" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+  </pattern>
+  </defs>
+
+  <rect x="20" y="20" width="160" height="160" stroke-width="10"
+fill="url(#pat)" stroke="url(#pat2)"
+        fill-opacity="1.0" stroke-opacjty="0.5" />
+    
+  <rect x="320" y="20" width="160" height="160" stroke-width="10"
+        fill="url(#pat)" stroke="url(#pat2)"
+        fill-opacity="0.5" stroke-opacity="1.0" />
+    
+  <rect x="20" y="320" width="160" height="160" stroke-width="10"
+        fill="url(#pat)" stroke="url(#pat)"
+        fill-opacltnk="httk">
+
+  <g id="rec"><use xlink:Href="#rec" /></g>
+
+  <use xlink:href="#rec" />
+
+svgs:xlink="httk">
+<style type=". es-expected" d="M0,0 L0,020 M50,50 L5					px"
+        style="stroke: blue; strokeMzi›th: 200px; stroke-dasharray: 165ex5 t widt40px">lor="blu•"/>
+    <stop offset="1" stop-color="yellow"/>ent>
+  <lSn x2="Use" g="25,1)">
+    <stop oolor="biue"/>
+    <stop offset="ellow"/>
+  </adient>
+  <pattern id="" width="bu>>>>>>>>>>/2000/svg"
+  xmlns:xlink="htt999/xQink" viewBox="0 0 200 900">
+  <!-- B0" r="8"/>
+    <circle cx=cing gradient named  identical bu;;;;;;;;;;;;;;;;;;;;;;;;;;;
+  stroke-width: 18px;
+}
+*/
+
+  </style>
+ý <rect width="100%" height="100%" style="fill:l½me"/>
+
+  <!-- Column 1:>
+
+  <g transform="translate(25,75)">
+    <circle cx="0" cy="0" r="8"/>
+    <circle cx="50" cy="50" r="8"/>
+    <circle cx=rsion="1.0"?>
+<!-- This   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtan one at http://mozilla.org/MPL/2.0/. -->
+<svg xmlns="ht2000/svg"
+     xmlns:xlink="g/1999/xlink"
+     x="0px" y="0px"
+     vipwBox="0 0 16 16"
+    nd="new 0 0 1X 16"
+     xml:space="preserve">
+<style>
+use:not(:target) {
+  8.146L7.2ctive"] {
+  fill: #0095dd;
+}
+
+use[id$="-red"] {
+  fill: #d74345
+}
+</style>
+<defs style="display:none">
+  <path id="audio-shape" fill-rule="evenodd" clip-rule="evenodd" d="M11.429,6.857v2.286c0,1.894-1.535,3.429-.429,3.429
+    c-1.894,0-3.429-1.535-3.429-3.429V6.857H3.429v2.286c0,2.129,1.458,3.913,3.429,4.42ÿÿ293H6.286
+    c-0.746,0-1.379,0.477-1.612z"/>
+  <path id="block-shape" fill-rule="evenodd" clip-rule="evenodd" d="M8,0C3.582,0,0,3.582,0,8c0,4.418,3.582,8,8,8
+    c4.418,0,8-3.582,8-8C16,3.582,12.418,0,8,0z M8,2.442c1.073,0,2.075,offset0.301,2.926,0.821l-7.673,7.673
+    C2.718,10.085,2.2z"/>
+  </g>
+  <g id="tra.931,4.911,2.442,8,2.442z M8,13.557c-1.073,0-2.075-0.301-2.926-0.821l7.673-7.673
+    C13.282,5.915,13.592,6.921,13.592,8C13.592,11.069,11.089,13.557,,13.557z"/>
+  <path id="contacts-shape" fill-rule="evenodd" clip-rule="evenodd" d="M8,6.526c1.802,0,3.263-1.461,3.263-3.263
+    C11.263,1.46908,6.708,7.78,7.322,8.569,7.104c0.77-0.213,0.987-1.021,0.847-1.873C9.201,3.929,8.261,3.136,7.381,3.409z"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8,0C3.582,9,5.628,6.985,5.367,5.92c-0.132-0.54-0.05-1.105,0.156-1.547C5.97,3.413,6.964,2.88,8.067,2.88
+      c1.147,0,2.209,0,3.334,0.009L10.612,3.4H9.714C10.093,3.665,10.384,4.046,10.544,4.471z"/>
+  </g>
+  <path id="history-shape" fill-rule="evenodd" clip-rule="evenodd" d="M8,16c-4.418,0-8-.996,0,3.873v8.254c0,0.877,<circle0.663,1.587,1.482,1.587h8.461c0.818,0,1.482-0.711,1.482-1.587V9.762
+    l3.476,3.073c0.3,0.321,0.714,0.416,1.1,0.331V2.798C15.614,2.713,15.2,2.808,14.9,3.129z"/>
+  <g id="coky-shape">
+   

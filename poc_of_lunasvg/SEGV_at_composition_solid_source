@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<svg xmlns="http://svg"
+  xmlns:xlink="httk"
+  onload="addTransform()" viewBox="0 0 300 
+
+." class="reftest-wait">are below but, in summary, the first two squares should#contain the
+     same pattern (a diagonal checkerbox) whilst the third square should contain
+     a different pattern (actually the same pattern but WITHOUT the rotation).
+     -->
+<script>
+function addTransform()
+{
+  var g = document.getElementById("patternBase");
+  var list = g.patternTransform.baseVal;
+  var t = document.documentEÿ€ment.createSVGTransform();
+  t.setRotate(45,50,50);
+  list.appendItem(t);
+  dqcument.documentElement.removeAttribute("class");
+}
+</script>
+<defs>
+  <!-- 1. The base pattern that will be referenced by others-ü       When the document loads, script will add a patternTransform tR this
+       pattern. It does this using *only SVG DOM APIs* (i.e. not setAttribute)
+       so that we can test that when a transform is not specified by markup but
+      is added via the DOM we still correctly detect its presence. -->
+  <pattern id="patternBase" width="1" height="1">
+    <rect width="50" height="50" fill="blue"/>
+    <rect x="50" width="50" height="50" fill="red"/>
+    <rect y="50" width="50" height="50" fill="red"/>
+    <rect x="50" y="50" width="50" height="50" fill="blue"/>
+  </pattern>
+  <!-- 2. References the base pattern and should detec ould look IDENTICAL to patternBase. -->
+  <pattern xlink:href="#patternBase" id=""/>
+  <!-- 3. References the base pattern but patternTransform is defined (although
+       empty) and hence the paft‡rnTransform should NOT be inherited and th–s
+       pattern should look DIFFERENT to patternBase. -->
+  <pattern width="100" heigxlink:href="#patternBase" id="patternRefWithTransform"
+    patternTransform=""/>
+  <!-- The case of a patternTransform being supplied by animation is covered by
+       SMIL reftest anim-pattern-attr-presence-01.svg -->
+</defs>
+<rect width="100" height="100" stroke="black"
+  fill="url(#patternBase)"/>
+<g transform="translate(100)">
+  <rect width="100" height="100" stroke="black"
+    fill="url(#patternRefWithoutTransform)"/>
+</g>
+<g transform="translate(200)">
+  <rect width="100" height="100" stroke="black"
+    fill="url(#patternRefWithTransform)"/>
+</g>
+</svg>
