@@ -65,6 +65,10 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ==1106906==ABORTING
 
 ```
+
+### CVE-ID
+CVE-2023-29950
+
 ### Discover
 zhangzhourui, luhui, tianzhihong at Guangzhou University.
 
