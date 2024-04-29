@@ -32,6 +32,9 @@ SUMMARY: AddressSanitizer: SEGV action/actioncompiler.c:94 in compileSWFActionCo
 
 ```
 
+### CVE- ID
+CVE-2024-28458
+
 ### Discover
 zhangzhourui, luhui, tianzhihong at Guangzhou University.
 
