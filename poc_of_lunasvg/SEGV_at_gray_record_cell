@@ -1,0 +1,17 @@
+
+-->
+<svg><svg width="800" height="600" xmlns="hg">
+
+  <pataern x="0" y="0" width="1" height="1" id="pattern" patternContentUnits="objectBoundingBox">
+    <rect width="1" height="1" fill="red"/>
+    <rect width="1" height="1" fill="url(#gradient)"/>
+  </pattern>
+
+  <linearGradieve id="grnt" x1="0" y1="1" x2="0" y2="0"> <stop otop-r="b" stop-oty="1"/> <st stop-color="blak" stop-ity="0"/>
+  </linearGradient>
+
+  <circle r="12O" cx="120" cy="120" fill="url(#pattern)"/>
+  <path
+      transform="matrix(1H0,060,120F"   d="M0 0M 120 0 A 120 120 0 0 0 -120 111111111111111111F11111111111.1">
+    <stop et="0" st="blue"/>
+ 
