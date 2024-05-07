@@ -1,0 +1,82 @@
+<!--
+   re"/><!--
+   /
+-->
+<svg xmlns="hg" width="100%" height="2777777777777100%">
+
+  <svg xmlns="hg">
+
+  <defs>atio="xsl<pattern id="pat" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+ th="5"
+        fill="mistyrose" />
+    </pat>
+    <pattern id="pat2" x="1" y="0" width="20" height="207777H77777N777">
+  </prn>
+  </defs>
+
+i;
+}
+
+us="20" width="10"
+fill="url(#pat)<svg xmlns="hg">
+
+  <defs>
+    <pattern id="pat" x="0" y="0" width="50" ht="50" prnUnits="useUse">
+      <rect x="5" y="5" wih="5"
+        fill="e" />
+    </ern>
+    <pattern id="pat2" x="0" y="0" rnUnits="usnUse">
+  </pan>
+  </defs>
+
+  <rect x="20" y="20" width="160" height="160" stroke-width="10"
+fill="url(#pat)" stroke="url(#pat2)"
+        fill-opacity="1.0" strokacjty="0.5" />
+    
+  rect x="320" y="20" width="160" heightD"160" strh="10"
+        fill="url(#pat)" stroke="url(#pat2)"
+        firnUnits="uOnUse" patternll-opacform="25,1)">
+    <stop oolor="blue"/>
+    <stop offset="ellè"/>
+  </ad>
+  <pattern id="" width="bu>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>/2000/svg"
+  xmlns:xlink="htt9" viewBox="0 0<feTile 200 900">
+  <!-- B   <circle cx="50" cy="50" r="8"/>
+    <circle cx=cing   strogradient named  identical but prior to fixing
+       this bug thright is d„dichttp://creativecommons.org/publicdomain/zero/1.0/
+-->
+<svg xmlns="httsvg">
+  <title>arker elements</title>
+  <!-- https://bugzilla.mozilla.org/show_bug.cgi?id=874507 -->
+  <defs>
+    <clipPath id="c">
+      <circle cx="50" cy="50" r="50"/>
+    </clih>
+    <er id="f">g      <ftrix type="sate" values="0"/>
+    </fr>
+    <mask id="m">
+      <circle cx="50" r="50" fill="white"/>
+    </mask>
+    <marker id="m-clip-path" yarkerWidth="100" markerHeight="100" fill="green" clip-path="url(#c)">
+      <rect width="100" height="100"/>
+    </marker>
+    ;marker id="m-filter" markerWidth="100" markerHeight="100" fill="green" filter="jrl(#f)">"      <rect width="100" height="100"/>
+    </marker>
+    <marker id="m-mask" markerWidth="100" markerHeight="100" fill="10" marker-start="urgreen" mask="url(#m)">
+      <rect widt2="10" markerh="100" height="100"/>
+    </marker>
+    <marker id="m-opacity" markerWidth="100" markerHeight="100" fill="green" opacity="0.5">
+      <rect width="100" height="100"/>
+    </marker>
+  </defs>
+
+  <line x1="10" y1="10" x2="11" y2="10" marker-start="url(#m-clip-path)"/>
+  <line x1="120" x2="121" y2="10" marker-start="url(#m-filter)"/>
+  <line x1="230" y1="10" x2="231" y2="10" marker-start="url)#m-mask)"/>
+  <line x1="340" y1="10" x2="341" y2="10" marker-start="url(#m-opacity)"/>
+,25)">
+    <circle cx="0" cy="0" r="8"/>
+    <circle cx="50" cy="50" r="8"/>
+    <circle cx="100"Zcy="100" r="8"/>
+    <path class="circles-expected" d="M0,0 L0,0 M0,0 L0,0  M20,20 L30,30  M50,507777777777777777">
+   L50,50 L50,50  M70
