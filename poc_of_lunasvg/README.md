@@ -694,7 +694,7 @@ SUMMARY: AddressSanitizer: SEGV (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/
 ### Discover
 zhangzhourui, luhui, tianzhihong, zhangyuheng at Guangzhou University.
 
-# 9.SEGV
+# 9.stack-overflow
 ## env
 ubuntu22.04 
 
