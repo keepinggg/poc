@@ -60,7 +60,7 @@ SUMMARY: AddressSanitizer: FPE (/home/ther/fuzz_target/lunasvg/build_asan/svg2pn
 ```
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, zhangyuheng, chenxingchi at Guangzhou University.
 
 # 2.SEGV
 ## env
@@ -108,7 +108,7 @@ SUMMARY: AddressSanitizer: SEGV (/home/ther/fuzz_target/lunasvg/build_asan/svg2p
 ```
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, zhangyuheng, lizhenghao at Guangzhou University.
 
 # 3.SEGV
 ## env
@@ -162,7 +162,7 @@ SUMMARY: AddressSanitizer: SEGV (/home/ther/fuzz_target/lunasvg/build_asan/svg2p
 ```
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, zhangyuheng, fengjiajun at Guangzhou University.
 
 # 4.SEGV
 ## env
@@ -214,7 +214,7 @@ SUMMARY: AddressSanitizer: SEGV (/home/ther/fuzz_target/lunasvg/build_asan/svg2p
 ```
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, zhangyuheng, chenxingchi at Guangzhou University.
 
 # 5.stack-buffer-underflow
 ## env
@@ -307,7 +307,7 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ```
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, chenxingchi, lizhenghao, fengjiajun at Guangzhou University.
 
 # 6.stack-overflow
 ## env
@@ -584,7 +584,7 @@ SUMMARY: AddressSanitizer: stack-overflow ../../../../src/libsanitizer/sanitizer
 ```
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, zhangyuheng, chenxingchi at Guangzhou University.
 
 # 7.stack-use-after-scope
 ## env
@@ -660,4 +660,4 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ```
 
 ### Discover
-zhangzhourui, luhui, tianzhihong at Guangzhou University.
+zhangzhourui, luhui, tianzhihong, zhangyuheng, lizhenghao at Guangzhou University.
