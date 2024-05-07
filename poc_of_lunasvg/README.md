@@ -661,3 +661,64 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 
 ### Discover
 zhangzhourui, luhui, tianzhihong, zhangyuheng, lizhenghao at Guangzhou University.
+
+# 8.SEGV
+## env
+ubuntu22.04 
+
+gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+
+svg2png - lunasvg(v2.3.9)
+
+## sample
+[SEGV_at_gray_record_cell](https://github.com/keepinggg/poc/blob/main/poc_of_lunasvg/SEGV_at_gray_record_cell)
+
+## crash
+```
+./svg2png SEGV_at_gray_record_cell 50x50
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==11969==ERROR: AddressSanitizer: SEGV on unknown address 0xfffffffff808719d (pc 0x5615a308e66d bp 0xffffffffffffffff sp 0x7ffe1fae31b8 T0)
+==11969==The signal is caused by a WRITE memory access.
+    #0 0x5615a308e66d in gray_record_cell (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/svg2png+0xd566d)
+    #1 0x5615a308e9e8 in gray_render_scanline (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/svg2png+0xd59e8)
+    #2 0x5615a308ecb3 in gray_render_line (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/svg2png+0xd5cb3)
+    #3 0x5615a308f6e1 in gray_render_cubic.isra.0 (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/svg2png+0xd66e1)
+
+AddressSanitizer can not provide additional info.
+SUMMARY: AddressSanitizer: SEGV (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/svg2png+0xd566d) in gray_record_cell
+==11969==ABORTING
+
+```
+
+### Discover
+zhangzhourui, luhui, tianzhihong, zhangyuheng at Guangzhou University.
+
+# 9.SEGV
+## env
+ubuntu22.04 
+
+gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+
+svg2png - lunasvg(v2.3.9)
+
+## sample
+[stack-overflow_at_gray_convert_glyph](https://github.com/keepinggg/poc/blob/main/poc_of_lunasvg/stack-overflow_at_gray_convert_glyph)
+
+## crash
+```
+./svg2png stack-overflow_at_gray_convert_glyph 50x50
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==12302==ERROR: AddressSanitizer: stack-overflow on address 0x7ffc947ae000 (pc 0x7f4eb04f2a3a bp 0x7ffc947a8330 sp 0x7ffc947a8018 T0)
+    #0 0x7f4eb04f2a3a  (/lib/x86_64-linux-gnu/libc.so.6+0x1afa3a)
+    #1 0x5628c9325396 in gray_convert_glyph.constprop.0 (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/svg2png+0xd7396)
+    #2 0x5628c9325785 in PVG_FT_Raster_Render (/home/ther/fuzz/fuzz_target/lunasvg/build_asan/svg2png+0xd7785)
+
+SUMMARY: AddressSanitizer: stack-overflow (/lib/x86_64-linux-gnu/libc.so.6+0x1afa3a)
+==12302==ABORTING
+
+```
+
+### Discover
+zhangzhourui, luhui, tianzhihong, zhangyuheng at Guangzhou University.
